@@ -1,5 +1,5 @@
-var startDate = 2;
-var endDate = 10;
+var startDate = 1;
+var endDate = 9;
 
 var today = new Date();
 var dd = today.getDate();
